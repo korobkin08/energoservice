@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/energoservice/static/css/main.da8ba9d6.css",
+    "main.js": "/energoservice/static/js/main.83131f95.js",
+    "static/js/453.237764c8.chunk.js": "/energoservice/static/js/453.237764c8.chunk.js",
+    "index.html": "/energoservice/index.html",
+    "main.da8ba9d6.css.map": "/energoservice/static/css/main.da8ba9d6.css.map",
+    "main.83131f95.js.map": "/energoservice/static/js/main.83131f95.js.map",
+    "453.237764c8.chunk.js.map": "/energoservice/static/js/453.237764c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da8ba9d6.css",
+    "static/js/main.83131f95.js"
+  ]
+}
